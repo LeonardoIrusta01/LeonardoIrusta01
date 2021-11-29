@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Leonardo Irusta</h1>
 <h3 align="center">💻 Full Stack Developer 💻</h3>
 
-- 💬 About me **Buenas!! Soy un desarrollador FullStack en proceso. Con ganas de seguir aprendiendo nuevas técnicas, nuevas tecnologías, resolviendo nuevos problemas y desafíos que se me presenten en mi día a día, donde también busco conocer nuevos equipos de trabajo para aprender de ellos y de sus conocimientos, y donde yo también pueda transmitirles mis conocimientos y ayudarlos en lo que necesiten. Soy un desarrollador que busca seguir creciendo en este mundo de la programación y aprendiendo mas cada día!**
+- 💬 Sobre mí **Buenas!! Soy un desarrollador FullStack en proceso. Con ganas de seguir aprendiendo nuevas técnicas, nuevas tecnologías, resolviendo nuevos problemas y desafíos que se me presenten en mi día a día, donde también busco conocer nuevos equipos de trabajo para aprender de ellos y de sus conocimientos, y donde yo también pueda transmitirles mis conocimientos y ayudarlos en lo que necesiten. Soy un desarrollador que busca seguir creciendo en este mundo de la programación y aprendiendo mas cada día!**
 
-- 📫 How to reach me **leoirusta502@gmail.com**
+- 📫 Contactame en **leoirusta502@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
